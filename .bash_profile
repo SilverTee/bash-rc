@@ -8,3 +8,4 @@ export PS1="╭─╼[\[\e[1;36m\]\w\[\e[0m\]]-(\`if [ \$? = 0 ]; then echo \[\e
 PROMPT_DIRTRIM=2
 
 alias fuckoff="git push --force-with-lease"
+alias nps="npx prisma studio"
